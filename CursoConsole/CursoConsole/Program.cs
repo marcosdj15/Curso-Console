@@ -87,6 +87,8 @@ namespace CursoConsoleApplication
                     else
                     {
                         Console.WriteLine("Opção Inválida!");
+                        //teste
+                        
                     }
                 }
             } while (opcao != 3);
